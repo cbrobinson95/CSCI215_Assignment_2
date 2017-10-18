@@ -1,0 +1,13 @@
+body {
+    background-color: darkblue;
+}
+
+div, textarea {
+    border: 2px solid gray;
+    background-color: white;
+    color: black;
+    width: 33%;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
